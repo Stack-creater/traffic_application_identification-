@@ -1,0 +1,2 @@
+,protocol,dst_addr,src_port,dst_port,forward_addr,app_name
+0,tcp,17.57.145.168,53960,5223,10.177.71.215,Apple私有协议
